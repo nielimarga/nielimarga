@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Niel Fiandio Limarga
+- 👀 I’m interested in Data Analytics
+- 🌱 I’m currently learning Phyton, SQL and Visualization
+- 💞️ I’m looking to work within Data Analytics or Business Intelligence
+- 📫 How to reach me niel_fiandio@live.com
